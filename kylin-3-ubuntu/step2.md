@@ -16,6 +16,8 @@ Type in 16010 into the dialog box to view the HBase page, which shows you xyz
 
 Do this again but this time type in 7070 to view Kylin 
 
+**Give Kylin a few seconds to connect, just relax and have some "me time"**
+
 Use username and password ADMIN/KYLIN to get through 
 
 
