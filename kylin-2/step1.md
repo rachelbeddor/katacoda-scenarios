@@ -18,14 +18,14 @@ apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
 
 Click on the plus sign to the right of 'Terminal' 
 
-![image of plus sign](img/plus_sign.png)
+![image of plus sign](assets/plus_sign.png)
 
 Then, click **Select Port to view on Host 1**
 
-![image of port host thing](img/port_host.png)
+![image of port host thing](assets/port_host.png)
 
 Type in 16010 into the dialog box to view the HBase page, which shows you xyz
 
-![hbase](img/hbase.png)
+![hbase](assets/hbase.png)
 
 
