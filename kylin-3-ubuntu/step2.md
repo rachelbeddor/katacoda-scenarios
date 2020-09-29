@@ -1,6 +1,13 @@
 Open UI 
 
 ## Task 
+In the previous command, we mapped the specified port in the container to local port. This means you'll be able to access the UIs for each service in a browser. 
+
+Description of Ports: 
+* 7070 = APACHE KYLIN
+* 8088 = YARN RESOURCE MANAGER 
+* 50070 = HDFS NameNode 
+* 16010 = HBASE
 
 Click on the plus sign to the right of 'Terminal' 
 
