@@ -6,7 +6,7 @@ This is an _example_ of creating a scenario and running a **command**
 
 `echo 'Hello World'`{{execute}}
 
-`docker pull apachekylin/apache-kylin-standalone:3.1.0` {{execute}}
+`docker pull apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
 
 `docker run -d \
 -m 8G \
@@ -16,5 +16,5 @@ This is an _example_ of creating a scenario and running a **command**
 -p 8032:8032 \
 -p 8042:8042 \
 -p 16010:16010 \
-apachekylin/apache-kylin-standalone:3.1.0` {{execute}}
+apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
 
