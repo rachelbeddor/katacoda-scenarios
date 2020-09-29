@@ -5,9 +5,11 @@ Please note that these steps follow a tutorial available on Apache Kylin's websi
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Pull the Apache Kylin image from the Docker Repository
 
 `docker pull apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
+
+Next, start the container by executing the following command: 
 
 `docker run -d \
 -m 8G \
@@ -19,10 +21,8 @@ This is an _example_ of creating a scenario and running a **command**
 -p 16010:16010 \
 apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
 
-Description of Ports: 
-* 7070 = APACHE KYLIN
-* 8088 = YARN RESOURCE MANAGER 
-* 50070 = HDFS NameNode 
-* 16010 = HBASE
+The container will start shortly. 
+
+
 
 
