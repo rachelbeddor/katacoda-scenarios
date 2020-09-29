@@ -4,11 +4,7 @@ This is your first step.
 
 This is an _example_ of creating a scenario and running a **command**
 
-`echo 'Hello World'`{{execute}}
-
 `docker pull apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
-
-`echo 'Hello World'`{{execute}}
 
 `docker run -d \
 -m 8G \
