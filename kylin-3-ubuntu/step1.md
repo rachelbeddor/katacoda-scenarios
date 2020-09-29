@@ -1,5 +1,8 @@
 Set up Docker Env
 
+## Before you start
+Please note that these steps follow a tutorial available on Apache Kylin's website - [Tutorial Link](http://kylin.apache.org/docs/gettingstarted/kylin-quickstart.html)
+
 ## Task
 
 This is an _example_ of creating a scenario and running a **command**
@@ -15,5 +18,11 @@ This is an _example_ of creating a scenario and running a **command**
 -p 8042:8042 \
 -p 16010:16010 \
 apachekylin/apache-kylin-standalone:3.1.0`{{execute}}
+
+Description of Ports: 
+* 7070 = APACHE KYLIN
+* 8088 = YARN RESOURCE MANAGER 
+* 50070 = HDFS NameNode 
+* 16010 = HBASE
 
 
