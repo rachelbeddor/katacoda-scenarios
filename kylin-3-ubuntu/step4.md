@@ -1,6 +1,6 @@
-Figure out why 7070 (Kylin) Isn't Working
+If you can't seem to pull up port 7070 (Kylin)... 
 
-## Task 
+## Troubleshooting Advice 
 Enter the container 
 
 View your container by running 
